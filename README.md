@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShlokDesai2210&show_icons=true&theme=radical)](https://github.com/ShlokDesai2210)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShlokDesai2210&show_icons=true&theme=transparent)](https://github.com/ShlokDesai2210)
